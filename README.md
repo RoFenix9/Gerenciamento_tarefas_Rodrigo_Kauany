@@ -33,7 +33,7 @@ Para executar o projeto, é necessário ter instalado:
 - Git (opcional).
 
 ## INSTALAÇÃO E EXECUÇÃO:
-1. Clone o repositório: git clone URL_DO_REPOSITORIO
+1. Clone o repositório: git clone (https://github.com/RoFenix9/Gerenciamento_tarefas_Rodrigo_Kauany.git)
 2. Entre na pasta do projeto: cd projeto_tasks
 3. Crie um ambiente virtual: python -m venv venv
 4. Ative o ambiente virtual no Windows: venv\Scripts\activate
