@@ -33,14 +33,14 @@ Para executar o projeto, é necessário ter instalado:
 - Git (opcional).
 
 ## INSTALAÇÃO E EXECUÇÃO:
-1. Clone o repositório
-2. Entre na pasta do projeto:
-3. Crie um ambiente virtual:
-4. Ative o ambiente virtual no Windows:
-5. Instale o Django:
-6. Execute as migrações do banco de dados:
-7. Inicie o servidor:
-8. Acesse o sistema pelo navegador:
+1. Clone o repositório: git clone URL_DO_REPOSITORIO
+2. Entre na pasta do projeto: cd projeto_tasks
+3. Crie um ambiente virtual: python -m venv venv
+4. Ative o ambiente virtual no Windows: venv\Scripts\activate
+5. Instale o Django: pip install django
+6. Execute as migrações do banco de dados: python manage.py migrate
+7. Inicie o servidor: python manage.py runserver
+8. Acesse o sistema pelo navegador: http://127.0.0.1:8000/
 
 ## EQUIPE:
 
